@@ -16,3 +16,7 @@ jn0608
 $(YOUR_FAVORITE_PROFESSOR)
 $(YOUR_FAVORITE_PROFESSOR)
 Akhil_Reddy
+## EUID
+jn0608
+## Favorite Professor
+Akhil_Reddy
